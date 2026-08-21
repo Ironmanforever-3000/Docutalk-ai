@@ -1,0 +1,16 @@
+{
+  "name": "project-bolt-sb1-h8wp553p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "preview": "npm --prefix project run preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
